@@ -13,7 +13,6 @@ y = 3
 print(x+y)
 
 # outras operações
-
 print(x//y) # divisão inteira
 print(x%y) # resto da divisão entre dois n. inteiros
 print(x**y) # exponenciação
